@@ -1,5 +1,5 @@
 {
-  "name": "javascript-lp-solver",
+  "name": "@uandi/javascript-lp-solver",
   "description": "Easy to use, JSON oriented Linear Programming and Mixed Int. Programming Solver",
   "version": "0.4.5",
   "private": false,
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/JWally/jsLPSolver"
+    "url": "https://github.com/uandi/jsLPSolver"
   },
   "main": "./src/main",
   "devDependencies": {
